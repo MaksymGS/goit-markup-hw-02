@@ -100,8 +100,9 @@ body {
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
+  letter-spacing: 0.02em;
   color: var(--back-color);
-  background-color: var(--main-color);
+  background-color: var(--heeader-color);
 }
 .section-title {
   font-weight: 700;
